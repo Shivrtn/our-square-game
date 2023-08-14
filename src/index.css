@@ -1,0 +1,9 @@
+*{margin: 0px;}
+body {
+    touch-action: none;
+  }
+  body {
+    max-height: 130vh;
+  }
+  
+  
